@@ -62,7 +62,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2500</dc:source>
 		<meta property="se:production-notes">Unfortunately this is a very poor translation, apparently produced by native German speakers with a mid-level command of colloquial English. German syntatical style is obvious throught much of the translation, rendering the English awkward at best and incomprehensible at worst. I've massaged the more egregious syntatical issues, as well as corrected some obvious typos and removed some unnecessary commas throughout. Standard Ebooks should strive to find a better public-domain translation to replace this one.</meta>
-		<meta property="se:word-count">39672</meta>
+		<meta property="se:word-count">39196</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Siddhartha_%28novel%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hermann-hesse_siddhartha_various-translators</meta>
