@@ -74,23 +74,18 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Gunther Olesch</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Olesch, Gunther</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Anke Dreher</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Dreher, Anke</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Amy Coulter</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Coulter, Amy</meta>
-		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">Stefan Langer</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Langer, Stefan</meta>
-		<meta property="display-seq" refines="#translator-4">4</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">Semyon Chaichenets</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Chaichenets, Semyon</meta>
-		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Abanindranath Tagore</dc:contributor>
 		<meta property="file-as" refines="#artist">Tagore, Abanindranath</meta>
