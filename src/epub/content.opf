@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Siddhartha: An Indian Tale</dc:title>
 		<meta property="file-as" refines="#fulltitle">Siddhartha</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">India -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Gautama Buddha -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Religious fiction</dc:subject>
