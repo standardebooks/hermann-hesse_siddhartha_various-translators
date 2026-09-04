@@ -37,11 +37,11 @@
 		<dc:title id="fulltitle">Siddhartha: An Indian Tale</dc:title>
 		<meta property="file-as" refines="#fulltitle">Siddhartha</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">India -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Gautama Buddha -- Fiction</dc:subject>
+		<dc:subject id="subject-1">India--Fiction</dc:subject>
+		<dc:subject id="subject-2">Gautama Buddha--Fiction</dc:subject>
 		<dc:subject id="subject-3">Religious fiction</dc:subject>
-		<dc:subject id="subject-4">Buddhism -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Buddhist philosophy -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Buddhism--Fiction</dc:subject>
+		<dc:subject id="subject-5">Buddhist philosophy--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008104233</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
