@@ -92,6 +92,7 @@
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Abanindranath Tagore</dc:contributor>
 		<meta property="file-as" refines="#artist">Tagore, Abanindranath</meta>
+		<meta property="alternate-script" refines="#artist">অবনীন্দ্রনাথ ঠাকুর</meta>
 		<link href="https://en.wikipedia.org/wiki/Abanindranath_Tagore" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81082069.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
